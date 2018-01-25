@@ -1,0 +1,10 @@
+D:\Books\TrainFair\bin\Debug\TrainFair.exe
+D:\Books\TrainFair\bin\Debug\TrainFair.pdb
+D:\Books\TrainFair\obj\Debug\TrainFare.csprojResolveAssemblyReference.cache
+D:\Books\TrainFair\obj\Debug\TrainFair.exe
+D:\Books\TrainFair\obj\Debug\TrainFair.pdb
+D:\【项目】\其他\策略模式之应用-铁路票价计算\TrainFair\obj\Debug\TrainFair.exe
+D:\【项目】\其他\策略模式之应用-铁路票价计算\TrainFair\obj\Debug\TrainFair.pdb
+D:\【项目】\其他\策略模式之应用-铁路票价计算\TrainFair\bin\Debug\TrainFair.exe
+D:\【项目】\其他\策略模式之应用-铁路票价计算\TrainFair\bin\Debug\TrainFair.pdb
+D:\【项目】\其他\策略模式之应用-铁路票价计算\TrainFair\obj\Debug\TrainFare.csprojResolveAssemblyReference.cache
