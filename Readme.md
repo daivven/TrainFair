@@ -219,9 +219,11 @@ namespace TrainFair.Models
 **执行结果**
 
 以下是控制台输出：
+
 ![](https://i.imgur.com/lIXYFnR.jpg)
  
-本文结尾附上了程序代码。 
+
+本文结尾处附上了程序代码。 
 
 
 ## 结语 ##
