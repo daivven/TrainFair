@@ -42,7 +42,7 @@ namespace TrainFair.FareRuleBuilder
                 totalFare = fareCalculatorContext.GetFareDetails(ageFareRuleModel, totalFare);
                 Console.WriteLine("\n-----------------------");
                 Console.WriteLine("享受会员折扣");
-                Console.WriteLine("从 {1} 至 {2}，享受{3}折的优惠，车票价钱为：  {0}", totalFare, fromStation, toStation, FareConstants.VIPDiscount);
+                Console.WriteLine("从 {1} 至 {2}，享受{3}折的优惠，车票价钱为：  {0}元", totalFare, fromStation, toStation, FareConstants.VIPDiscount);
             }
            
             Console.WriteLine("\n是否还有其它费用 (y/n):");
